@@ -13,11 +13,12 @@ A simple Tic-Tac-Toe game in Python, with Kivy.
 pip install Kivy
 ```
 - Install JDK for Python, like Visual Studio Code or PyChram.
-- Enter the code ane run!
+- Enter the code and run!
 
 ## Usage
 
 Please make sure firstly you have a Python version under 3.8.
+> A recommended version is **3.7.8**
 
 ## Features
 
