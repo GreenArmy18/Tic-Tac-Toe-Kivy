@@ -3,8 +3,7 @@ A simple Tic-Tac-Toe game in Python, with Kivy.
 
 **Great for beginners and learners!**
 
-https://raw.githubusercontent.com/GreenArmy18/Tic-Tac-Toe-Kivy/main/Screenshots/Screenshot_93.png
-
+![Screenshot](https://raw.githubusercontent.com/GreenArmy18/Tic-Tac-Toe-Kivy/main/Screenshots/Screenshot_93.png)
 ## Installation and running
 
 - Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Kivy.
