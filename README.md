@@ -7,11 +7,13 @@ A simple Tic-Tac-Toe game in Python, with Kivy.
 
 ## Installation and running
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Kivy.
+- Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Kivy.
 
 ```bash
 pip install Kivy
 ```
+- Install JDK for Python, like Visual Studio Code or PyChram.
+- Enter the code ane run!
 
 ## Usage
 
