@@ -11,8 +11,11 @@ A simple Tic-Tac-Toe game in Python, with Kivy.
 ```bash
 pip install Kivy
 ```
-- Install JDK for Python, like Visual Studio Code or PyChram.
+
+- Install IDE for Python, like Visual Studio Code or PyChram.
 - Enter the code and run!
+
+- Or, you can just install the lastest version of the game, from [here](https://github.com/GreenArmy18/Tic-Tac-Toe-Kivy/releases/latest)!
 
 ## Usage
 
